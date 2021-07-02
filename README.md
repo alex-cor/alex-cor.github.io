@@ -1,21 +1,21 @@
 # alex-cor.github.io
 
-# Activist Toolkit Sample Project
+# Activist Toolkit Sample Project --> Converted into LGBTQ+ Awareness Site
 
-This is a place for you to start building your activist toolkit!
+This is a place for LGBTQ+ awareness, resources, and education. 
 
 
 ### Project Requirements
-Your project should:
-- Build a multipage website using HTML, CSS, and JavaScript.
-- Implement at least one of the key features from the menu. 
-- Customize the look and feel of your site through colors, images, and fonts using CSS.
-- Include alt text for every image in your website.
-- Use code comments to describe your code.
+This project includes: 
+- A multipage website using HTML, CSS, and JavaScript.
+- At least one of the key features from the menu. 
+- Customized look and feel of the site through colors, images, and fonts using CSS.
+- Included alt text for images.
+- Used code comments to describe the code.
 
 
 ### Extensions
-You can extend your project further by:
+Extended project: 
 - Refactor your code.
 - Add a nice-to-have feature.
 - Port to GitHub pages.
@@ -24,17 +24,30 @@ You can extend your project further by:
 
 ### Image Attributions
 
+Image on homepage is copyright free; provided by pixabay. 
+Alt description: "Hand reaching out with a rainbow of light shining onto it."
+
 ---
 
 ## File Overview
 
 ### ← README.md
 
-That's this file. This is the place to tell people more about what your website does and how you built it. 
+That's this file. This is the place to tell people more about what this website does and how I built it. 
 
 ### ← index.html
 
-HTML files are for content! Add your text, images, buttons, and more using HTML tags.
+HTML files are for content! Add your text, images, buttons, and more using HTML tags. Other html files listed below: 
+
+### ← learn.html
+
+### ← takeaction.html
+
+### ← links.html
+
+### ← about.html
+
+
 
 ### ← style.css
 
@@ -42,7 +55,7 @@ CSS files add styling rules to your content like changing colors and fonts.
 
 ### ← script.js
 
-JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
+JavaScript files add interactivity to the website using code. This is where you can listen for events, then take an action.
 
 ### ← assets
 
