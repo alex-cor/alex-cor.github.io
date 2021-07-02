@@ -1,0 +1,343 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+html {
+  background-image: linear-gradient(brown, red, orange, yellow, green, cyan, blue, purple);
+}
+
+body {
+  cursor: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAaCAMAAABigZc2AAAACVBMVEX///8AAAD///9+749PAAAAAXRSTlMAQObYZgAAAFpJREFUeNp9jUEOwEAIAhn+/+imjbs1bC0XzQioSUAAYZs0mcVY051RbGXfFsyxibTVHXhuhXYlbuRGPbe7kz3g0wf679OuizDBdCaberLE4AsjGliD02eNugA+MQFAPqynHQAAAABJRU5ErkJggg==), auto;
+}
+
+
+
+/* STYLE TEXT */
+.learntext { 
+  border: 2px solid black;
+  background-color: white;
+  padding: 4em;
+  color: red;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+}
+
+.title {
+  border: 0px, solid black;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  padding: 1em;
+  text-align: center;
+  font-size: 150px;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.quests {
+  border: 2px solid black;
+  padding: 1em;
+  margin-left: 7em;
+  margin-right: 7em;
+  text-align: center;
+  margin-top: 3em;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 70px;
+}
+
+.empowersection {
+  border: 2px solid white;
+  padding: 1em;
+  margin-left: 7em;
+  margin-right: 7em;
+  text-align: center;
+  margin-top: 3em;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 70px;
+  color: white;
+}
+
+.whysection {
+  border: 2px solid white;
+  padding: 1em;
+  margin-left: 7em;
+  margin-right: 7em;
+  text-align: center;
+  margin-top: 3em;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 70px;
+  color: white;
+}
+
+#what {
+  border: 2px solid black;
+ text-align: center;
+ padding: 1em;
+font-family: 'Kirang Haerang', cursive;
+font-size: 50px;
+
+}
+
+#who{
+  border: 2px solid black;
+ text-align: center;
+ padding: 1em;
+ font-size: 50px;
+font-family: 'Kirang Haerang', cursive;
+
+}
+
+#why{
+  border: 2px solid white;
+ text-align: center;
+ padding: 1em;
+ font-size: 40px;
+font-family: 'Kirang Haerang', cursive;
+ color: white;
+}
+
+.whoiam {
+  border: 2px solid white;
+  color: black;
+  padding: 1em;
+  margin-left: 7em;
+  margin-right: 7em;
+  text-align: center;
+  margin-top: 0em;
+   font-family: 'Bebas Neue', cursive;
+  font-size: 70px;
+  background-color: white;
+}
+
+#about {
+border: 2px solid white;
+ text-align: center;
+ padding: 1em;
+ font-size: 40px;
+ font-family: 'Kirang Haerang', cursive;
+ color: black;
+ background-color: white;
+ margin-left: 2em;
+ margin-right: 2em;
+}
+
+.actioninfo {  
+ text-align: center;
+ padding: 1em;
+ font-size: 40px;
+font-family: 'Kirang Haerang', cursive;
+ color: black;
+}
+
+.buttonlinks {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Kirang Haerang', cursive;
+}
+#linkbutton {
+  margin-top: 1em;
+  padding: 1em;
+  color: white;
+  border-color: white;
+  font-family: 'Kirang Haerang', cursive;
+  font-size: 20px; 
+}
+
+.inputsection {
+  border: 2px solid white;
+ text-align: center;
+ padding: 1em;
+ font-size: 40px;
+font-family: 'Kirang Haerang', cursive;
+ color: white;
+ margin-top: 50px;
+}
+
+#messageebutton {
+margin-top: 1em;
+  padding: 1em;
+  color: black;
+  border-color: white;
+  font-family: 'Kirang Haerang', cursive;
+  font-size: 20px; 
+}
+
+#pageslinks {
+  margin-top: 1em;
+  padding: 1em;
+  color: black;
+  border-color: white;
+  font-family: 'Kirang Haerang', cursive;
+  font-size: 20px; 
+}
+
+.linkstitle {
+  border: 2px solid black;
+  padding: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-align: center;
+  margin-top: 0em;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 70px;
+}
+
+.contacts {
+border: 2px solid white;
+  padding: 1em;
+  margin-left: 7em;
+  margin-right: 7em;
+  text-align: center;
+  margin-top: 3em;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 70px;
+  color: white;
+}
+
+
+.contacttext {
+text-align: center;
+ padding: 1em;
+ font-size: 40px;
+font-family: 'Kirang Haerang', cursive;
+ color: white;
+}
+
+/* STYLE IMAGES */
+
+/* STYLE NAV BAR */
+
+ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white;
+  color: black;
+}
+
+/* STYLE BUTTONS */
+
+#empower {
+border-right: 2px solid black;
+border-bottom-color: black;
+border-left-color: grey;
+border-top-color: grey;
+margin-left: 44%;
+font-family: 'Bebas Neue', cursive;
+}
+
+
+/* Doesnt exist rn */
+#topButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Kirang Haerang', cursive;
+}
+
+
+#myButton {
+  margin-top: 2em;
+  padding: 1em;
+  margin-bottom: 2em;
+}
+
+/* nonexistant button ends here */
+
+#bottomButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
+
+#myButtonB {
+  margin-top: 1em;
+  padding: 1em;
+  background-color: black;
+  color: white;
+  border-color: white;
+  font-family: 'Kirang Haerang', cursive;
+  font-size: 50px;
+}
+
+#sub {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0em;
+  margin-bottom: 3em;
+  font-size: 40px;
+font-family: 'Bebas Neue', cursive;
+}
+
+#figuretext {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1em;
+ font-family: 'Kirang Haerang', cursive;
+  color: white;
+  font-size: 30px;
+}
+
+
+
+/* ADD MORE! */
+
+.flexboxContainer (
+  
+)
+
+.flexItem (
+
+)
+
+
+@media screen and (max-width: 991px) {
+  .flexboxContainer {
+    flex-wrap: wrap;
+  }
+}
+
+//Changing text
+  
+
+//rolling image
+
+body, html {
+  height: 100%;
+}
+
+.rolling {
+  /* The image used */
+  background-image: url('https://cdn.pixabay.com/photo/2017/05/19/10/12/hand-2326058_1280.jpg');
+
+  /* Full height */
+  height: 40em;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
